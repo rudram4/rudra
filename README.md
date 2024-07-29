@@ -1,3 +1,5 @@
+I have modified the orignal <a href='https://github.com/Ravaan21/Chandrahasa'>Chandrahasa</a> Tool to be able to use multiple domains at the same time.
+
 Installation:
 Firstly Configure Go
 This tool utilizes three seperate tools:
