@@ -17,7 +17,7 @@ while getopts ":t:l:d:h" opt; do
             output_directory="$OPTARG"
             ;;
         h)
-            echo "Usage: ./chandrahasa [-t domain1,domain2,... | -l domain_list_file] -d output_directory"
+            echo "Usage: ./chandrahasa.sh [-t domain1,domain2,... | -l domain_list_file] -d output_directory"
             exit 0
             ;;
         \?)
